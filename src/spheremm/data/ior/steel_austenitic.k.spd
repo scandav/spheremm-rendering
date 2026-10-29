@@ -1,0 +1,34 @@
+# steel_austenitic: refractiveindex.info other/alloys/stainless steel/nk/Karlsson-austenitic.yml (CC0)
+# Björn Karlsson, Carl G. Ribbing. Optical constants and spectral selectivity of stainless steel and its oxides. <a href="https://doi.org/10.1063/1.331503"><i>J. Appl. Phys.</i> <b>53</b>, 6340-6346 (1982)</a> (Data extracted from a figure)
+# wavelength [nm]
+300 2.1379
+320 2.2793
+340 2.4165
+360 2.5447
+380 2.6681
+400 2.7925
+420 2.924
+440 3.0555
+460 3.1785
+480 3.2933
+500 3.401
+520 3.5072
+540 3.6166
+560 3.7298
+580 3.8451
+600 3.9594
+620 4.0504
+640 4.1378
+660 4.2261
+680 4.3155
+700 4.4066
+720 4.5036
+740 4.5851
+760 4.6435
+780 4.7009
+800 4.7583
+820 4.816
+840 4.8744
+860 4.936
+880 4.9894
+900 5.0253

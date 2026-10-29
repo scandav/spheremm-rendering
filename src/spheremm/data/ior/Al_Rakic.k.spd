@@ -1,0 +1,20 @@
+# Al_Rakic: refractiveindex.info main/Al/nk/Rakic.yml (CC0)
+# A. D. Rakić. Algorithm for the determination of intrinsic optical constants of metal films: application to aluminum. <a href="https://doi.org/10.1364/AO.34.004755"><i>Appl. Opt.</i> <b>34</b>, 4755-4767 (1995)</a>
+# wavelength [nm]
+309.96 3.7081
+326.28 3.9165
+364.66 4.3957
+413.28 5.0008
+442.8 5.3676
+476.87 5.7781
+516.6 6.2418
+563.57 6.7839
+619.93 7.4052
+652.25 7.7354
+688.81 8.0601
+729.32 8.3565
+774.91 8.4914
+794.78 8.3866
+815.69 8.2573
+837.74 8.1878
+885.61 8.1134

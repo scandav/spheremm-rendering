@@ -1,0 +1,26 @@
+# Ti_Johnson: refractiveindex.info main/Ti/nk/Johnson.yml (CC0)
+# P. B. Johnson and R. W. Christy. Optical constants of transition metals: Ti, V, Cr, Mn, Fe, Co, Ni, and Pd. <a href="https://doi.org/10.1103/PhysRevB.9.5056"><i>Phys. Rev. B</i> <b>9</b>, 5056-5070 (1974)</a>
+# wavelength [nm]
+301 2.46
+311 2.57
+320 2.66
+332 2.74
+342 2.82
+354 2.87
+368 2.9
+381 2.93
+397 2.95
+413 2.98
+431 3.01
+451 3.04
+471 3.1
+496 3.19
+521 3.3
+549 3.43
+582 3.58
+617 3.72
+659 3.84
+704 3.96
+756 4.01
+821 4.01
+892 3.96
